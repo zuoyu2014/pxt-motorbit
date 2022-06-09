@@ -5,6 +5,7 @@
     "dependencies": {
         "core": "*",
         "Sensorbit": "github:zuoyu2014/pxt-sensorbit"
+        "Sensorbit": "github:microsoft/pxt-neopixel"
     },
     "files": [
         "README.md",
