@@ -4,8 +4,7 @@
     "description": "motorbit emakefun",
     "dependencies": {
         "core": "*",
-        "Sensorbit": "github:zuoyu2014/pxt-sensorbit",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3"
+        "Sensorbit": "github:zuoyu2014/pxt-sensorbit"
     },
     "files": [
         "README.md",
