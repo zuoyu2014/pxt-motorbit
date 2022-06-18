@@ -4,8 +4,8 @@
     "description": "motorbit emakefun",
     "dependencies": {
         "core": "*",
-        "Sensorbit": "github:zuoyu2014/pxt-motorbit"
-    },
+        "Sensorbit": "github:emakefun/pxt-sensorbit" 
+	},
     "files": [
         "README.md",
         "main.ts",
